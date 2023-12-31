@@ -1,0 +1,1 @@
+With this simple project, I can test what I've just learned, by creating a simple website with webpages insides describing cooking recipes
