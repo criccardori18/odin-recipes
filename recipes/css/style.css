@@ -1,3 +1,52 @@
 * {
     font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+
+.header1 {
+    text-align: center;
+    background-color: antiquewhite;
+    font-size: 50px;
+    text-decoration: underline;
+
+}
+
+.header1.recipe {
+    text-align: left;
+    font-style: italic;
+    font-size: 65px;
+}
+
+.index_list {
+    line-height: 75px;
+    list-style-type: disc;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.header2 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 24px;
+}
+
+.ingredient {
+    font-style: italic;
+}
+
+#unorder {
+    list-style-type: disc;
+}
+#order {
+    list-style-type: circle;
+}
+
+.list {
+    font-size: 24px;
+    font-weight: 500;
 }
